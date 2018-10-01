@@ -1,0 +1,1 @@
+ghost animation dont support in firefox but can shown in Google
